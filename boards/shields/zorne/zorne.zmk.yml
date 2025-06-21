@@ -2,7 +2,7 @@ file_format: "1"
 id: zorne
 name: zorne
 type: shield
-url: https://github.com/foostan/crkbd
+url: https://github.com/ZarredFelicite/zmk-keyboards-zorne
 requires: [seeeduino_xiao_ble]
 features:
   - keys
