@@ -6,6 +6,7 @@ config ZMK_KEYBOARD_NAME
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
 config CONFIG_ZMK_SPLIT_BLE_CENTRAL_PERIPHERALS
+  int "Peripheral count"
   default 2
 config ZMK_USB
 	default y
